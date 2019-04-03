@@ -1,1 +1,1 @@
-Demo available here: uad-127.github.io/high-scores-example
+Demo available here: https://ironhack-dev-squad-127.github.io/high-scores-example/
